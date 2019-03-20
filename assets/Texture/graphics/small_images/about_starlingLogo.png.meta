@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "64dddd33-c02c-4edc-b207-1ac76df82a7f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "about_starlingLogo": {
+      "ver": "1.0.3",
+      "uuid": "6eecc5ab-36e5-49de-885d-bd2b3d1e9e94",
+      "rawTextureUuid": "64dddd33-c02c-4edc-b207-1ac76df82a7f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 184,
+      "height": 65,
+      "rawWidth": 184,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
